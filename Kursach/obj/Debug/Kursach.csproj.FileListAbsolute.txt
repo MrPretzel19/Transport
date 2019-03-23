@@ -1,0 +1,73 @@
+D:\4 kurs\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe.config
+G:\4 kurs\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe.config
+G:\4 kurs\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe
+G:\4 kurs\Курсовой\Kursach\Kursach\bin\Debug\Kursach.pdb
+G:\4 kurs\Курсовой\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+G:\4 kurs\Курсовой\Kursach\Kursach\obj\Debug\Kursach.exe
+G:\4 kurs\Курсовой\Kursach\Kursach\obj\Debug\Kursach.pdb
+D:\YandexDisk\BackUp\Какахи\4 kurs\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe.config
+D:\YandexDisk\BackUp\Какахи\4 kurs\Курсовой\Kursach\Kursach\obj\Debug\Kursach.exe
+D:\YandexDisk\BackUp\Какахи\4 kurs\Курсовой\Kursach\Kursach\obj\Debug\Kursach.pdb
+D:\YandexDisk\BackUp\Какахи\4 kurs\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe
+D:\YandexDisk\BackUp\Какахи\4 kurs\Курсовой\Kursach\Kursach\bin\Debug\Kursach.pdb
+D:\YandexDisk\BackUp\Какахи\4 kurs\Курсовой\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+E:\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe.config
+E:\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe
+E:\Курсовой\Kursach\Kursach\bin\Debug\Kursach.pdb
+E:\Курсовой\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+E:\Курсовой\Kursach\Kursach\obj\Debug\Kursach.exe
+E:\Курсовой\Kursach\Kursach\obj\Debug\Kursach.pdb
+K:\Флешка\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe.config
+K:\Флешка\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe
+K:\Флешка\Курсовой\Kursach\Kursach\bin\Debug\Kursach.pdb
+K:\Флешка\Курсовой\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+K:\Флешка\Курсовой\Kursach\Kursach\obj\Debug\Kursach.exe
+K:\Флешка\Курсовой\Kursach\Kursach\obj\Debug\Kursach.pdb
+D:\Downloads\Kursach\Kursach\Kursach\bin\Debug\Kursach.exe.config
+D:\Downloads\Kursach\Kursach\Kursach\bin\Debug\Kursach.exe
+D:\Downloads\Kursach\Kursach\Kursach\bin\Debug\Kursach.pdb
+D:\Downloads\Kursach\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\Downloads\Kursach\Kursach\Kursach\obj\Debug\Kursach.exe
+D:\Downloads\Kursach\Kursach\Kursach\obj\Debug\Kursach.pdb
+C:\Users\korrs\Desktop\Kursach\Kursach\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\korrs\Desktop\Kursach\Kursach\Kursach\bin\Debug\Kursach.exe
+C:\Users\korrs\Desktop\Kursach\Kursach\Kursach\bin\Debug\Kursach.pdb
+C:\Users\korrs\Desktop\Kursach\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+C:\Users\korrs\Desktop\Kursach\Kursach\Kursach\obj\Debug\Kursach.exe
+C:\Users\korrs\Desktop\Kursach\Kursach\Kursach\obj\Debug\Kursach.pdb
+K:\Флешка\Курсовой\Kursach\Kursach\Kursach\bin\Debug\Kursach.exe.config
+K:\Флешка\Курсовой\Kursach\Kursach\Kursach\bin\Debug\Kursach.exe
+K:\Флешка\Курсовой\Kursach\Kursach\Kursach\bin\Debug\Kursach.pdb
+K:\Флешка\Курсовой\Kursach\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+K:\Флешка\Курсовой\Kursach\Kursach\Kursach\obj\Debug\Kursach.exe
+K:\Флешка\Курсовой\Kursach\Kursach\Kursach\obj\Debug\Kursach.pdb
+C:\Users\korrs\Desktop\Kursach\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\korrs\Desktop\Kursach\Kursach\bin\Debug\Kursach.exe
+C:\Users\korrs\Desktop\Kursach\Kursach\bin\Debug\Kursach.pdb
+C:\Users\korrs\Desktop\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+C:\Users\korrs\Desktop\Kursach\Kursach\obj\Debug\Kursach.exe
+C:\Users\korrs\Desktop\Kursach\Kursach\obj\Debug\Kursach.pdb
+C:\Users\TinnToth\Downloads\Kursach\Kursach\Kursach\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\TinnToth\Downloads\Kursach\Kursach\Kursach\Kursach\obj\Debug\Kursach.exe
+C:\Users\TinnToth\Downloads\Kursach\Kursach\Kursach\Kursach\obj\Debug\Kursach.pdb
+C:\Users\TinnToth\Downloads\Kursach\Kursach\Kursach\Kursach\bin\Debug\Kursach.exe
+C:\Users\TinnToth\Downloads\Kursach\Kursach\Kursach\Kursach\bin\Debug\Kursach.pdb
+C:\Users\TinnToth\Downloads\Kursach\Kursach\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\Михаил\Desktop\Курсовой\Kursach\Kursach\obj\Debug\Kursach.exe
+C:\Users\Михаил\Desktop\Курсовой\Kursach\Kursach\obj\Debug\Kursach.pdb
+C:\Users\Михаил\Desktop\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe
+C:\Users\Михаил\Desktop\Курсовой\Kursach\Kursach\bin\Debug\Kursach.pdb
+C:\Users\Михаил\Desktop\Курсовой\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+C:\Users\korrs\Desktop\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\korrs\Desktop\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe
+C:\Users\korrs\Desktop\Курсовой\Kursach\Kursach\bin\Debug\Kursach.pdb
+C:\Users\korrs\Desktop\Курсовой\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+C:\Users\korrs\Desktop\Курсовой\Kursach\Kursach\obj\Debug\Kursach.exe
+C:\Users\korrs\Desktop\Курсовой\Kursach\Kursach\obj\Debug\Kursach.pdb
+C:\Users\TinnToth\Downloads\Курсовой\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\TinnToth\Downloads\Курсовой\Курсовой\Kursach\Kursach\obj\Debug\Kursach.exe
+C:\Users\TinnToth\Downloads\Курсовой\Курсовой\Kursach\Kursach\obj\Debug\Kursach.pdb
+C:\Users\TinnToth\Downloads\Курсовой\Курсовой\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+C:\Users\TinnToth\Downloads\Курсовой\Курсовой\Kursach\Kursach\bin\Debug\Kursach.exe
+C:\Users\TinnToth\Downloads\Курсовой\Курсовой\Kursach\Kursach\bin\Debug\Kursach.pdb
